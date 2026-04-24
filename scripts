@@ -1,0 +1,5 @@
+scripts/01_prepare_training_data.R
+scripts/02_random_forest_typology_classification.R
+scripts/03_external_validation.R
+scripts/04_apply_rf_typologies.R
+scripts/05_prepare_reconstructed_trajectories.R
