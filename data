@@ -1,0 +1,3 @@
+data/processed/TRAINING_DATA.csv
+data/processed/EXTERNAL_VALIDATION.csv
+data/processed/RECONSTRUCTED_TRAJECTORIES.csv
