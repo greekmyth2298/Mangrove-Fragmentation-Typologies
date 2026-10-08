@@ -1,0 +1,9 @@
+00_shared.R: PASS basic delimiter/quote scan (176 lines)
+01_prepare_training_data.R: PASS basic delimiter/quote scan (45 lines)
+02_random_forest_typology_classification.R: PASS basic delimiter/quote scan (98 lines)
+03_external_validation.R: PASS basic delimiter/quote scan (62 lines)
+04_apply_rf_typologies.R: PASS basic delimiter/quote scan (46 lines)
+05_prepare_reconstructed_trajectories.R: PASS basic delimiter/quote scan (77 lines)
+06_analyze_fragmentation_trajectories.R: PASS basic delimiter/quote scan (225 lines)
+07_information_theoretic_path_dependence.R: PASS basic delimiter/quote scan (210 lines)
+NOTE: lexical scan is not R parsing or execution.

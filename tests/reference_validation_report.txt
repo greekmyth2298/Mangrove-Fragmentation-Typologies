@@ -1,0 +1,16 @@
+Independent reference check (Python, not an R execution test)
+Trajectory rows = 3186, urban areas = 10
+Training = 1212 rows; external validation = 500 rows
+Tables 3 and 4: all 10 exact trajectory counts PASSED
+Pooled H_recent=1.816246 H_history=1.703022 DeltaH=0.113223
+LL_recent=-4010.9370 LL_history=-3760.8981 LR=500.0778
+Equal urban-area DeltaH=0.129515
+Table 6 counts and DeltaH: PASSED (sizes [3186, 2359, 2882, 2965])
+External validation comparison:
+  Cotabato: CSV 0.900, published 0.85
+  Sandakan: CSV 0.900, published 0.85
+  Singapore-Johor Bahru: CSV 0.870, published 0.86
+  Surabaya: CSV 0.910, published 0.92
+  Vung Tau: CSV 0.860, published 0.84
+R syntax/execution not established by these tests.
+Script 04 cannot execute until ALL_PATCH_TRANSITIONS.csv is supplied.
