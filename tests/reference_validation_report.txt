@@ -1,0 +1,9 @@
+PASS Input CSVs: 1212 training; 500 validation; 4584 long-interval; 3186 trajectory records
+PASS Manifest and SHA256: 30 source files; 8,909 intermediate interval predictions
+PASS First-interval RF predictions vs cohort: exact multiset agreement for 3,186 rows
+PASS Published Tables 3 and 4: all 20 reported trajectory counts
+PASS Published Table 5: pooled H and LR, pooled and equal-area delta-H
+PASS Published Table 6: all four sample sizes and delta-H point estimates
+Pooled entropies, delta-H, LR: 1.816246 1.703022 0.113223 500.077836
+Equal-city-weighted delta-H: 0.129515
+NOTE: this is a Python source-data audit; complete R execution must run locally.

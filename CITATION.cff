@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite the published research article if you use this analysis pipeline."
+title: "Mangrove fragmentation typologies and path dependence: reproducible R pipeline"
+authors:
+  - family-names: Gil
+    given-names: Allen Glen Cumaya
+  - family-names: Seto
+    given-names: Karen C.
+doi: 10.1007/s10980-026-02425-9
+preferred-citation:
+  type: article
+  title: "Fragmentation typologies, trajectories, and path dependence in urban mangrove landscapes of Southeast Asia"
+  authors:
+    - family-names: Gil
+      given-names: Allen Glen Cumaya
+    - family-names: Seto
+      given-names: Karen C.
+  year: 2026
+  journal: Landscape Ecology
+  volume: 41
+  article-number: '188'
+  doi: 10.1007/s10980-026-02425-9
